@@ -16,7 +16,7 @@
 Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/viveknunavath/Amazon-Clone
 Navigate to the project directory:
 
 Copy code
