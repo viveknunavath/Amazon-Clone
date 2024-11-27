@@ -2,6 +2,9 @@
     This project is a static Amazon Clone built using only HTML and CSS. The goal was to replicate the design and layout of 
     Amazon's homepage to practice front-end development skills.
 
+    🔗 Live Demo
+Link to Live Demo 🔗 Live Demo
+
 🛠️ Technologies Used:
       HTML5 for structuring the content
       CSS3 for styling and layout
