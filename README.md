@@ -3,7 +3,7 @@
     Amazon's homepage to practice front-end development skills.
 
     🔗 Live Demo
-Link to Live Demo 🔗 Live Demo
+Link to Live Demo https://viveknunavath.github.io/Amazon-Clone/
 
 🛠️ Technologies Used:
       HTML5 for structuring the content
